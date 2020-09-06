@@ -39,7 +39,6 @@ function draw() {
 
 
 }
-  console.log();
   drawSprites();
 }
 function hasCollided (lbullet,lwall){
